@@ -18,7 +18,7 @@ The Light Following Robot is designed to detect and follow light sources using L
 
 ## 📋 Schematic Diagram
 
-You can find the schematic diagram of the circuit [here](https://github.com/Circuit-Digest/Light-Following-Robot-Using-Arduino-and-LDR/blob/main/Light_Following_Robot_-_Circuit_Diagram.png).
+You can find the schematic diagram of the circuit [here](https://github.com/Circuit-Digest/Light-Following-Robot-Using-Arduino-and-LDR/blob/main/CircuitDiagram.png).
 
 ## 📂 Project Structure
 
